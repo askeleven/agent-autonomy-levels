@@ -1,5 +1,7 @@
 # Agent Autonomy Levels
 
+![Agent Autonomy Levels: six levels, L0 to L5, for how much an AI agent may do without a human](https://raw.githubusercontent.com/askeleven/agent-autonomy-levels/main/docs/social-preview.png)
+
 **A shared vocabulary for how much an AI agent may do without a human.**
 
 "Autonomous AI agent" currently means nothing. One vendor's agent drafts an email you
